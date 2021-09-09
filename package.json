@@ -1,6 +1,6 @@
 {
   "name": "@haskkor/react-native-recaptchav3",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "React native component to use the invisible recaptcha v3 from Google",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,7 +25,7 @@
     "@types/react-native": "^0.64.12",
     "react": "^17.0.1",
     "react-native": "^0.64.2",
-    "typescript": "^3.1.6"
+    "typescript": "^3.9.7"
   },
   "peerDependencies": {
     "react": "*",
